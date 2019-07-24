@@ -1,0 +1,56 @@
+<style>
+#main {
+  margin: auto;
+  text-align: center;
+}
+
+#title {
+  font-family: Monospace, Courrier;
+  font-size: 60pt;
+  color: white;
+  background-color: #18335e;
+  text-align: center;
+}
+
+#img-div {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#image {
+  height: 100%;
+  max-width: 100%;
+  height: auto;
+  align-content: center;
+  display: block;
+}
+
+#img-caption {
+  font-family: Literata;
+  font-size: 35pt;
+  color: white;
+  font-style: italic;
+  text-align: center;
+  background-color: #004080;
+  padding: 20px;
+}
+
+#tribute-info {
+  text-align: center;
+  padding: 2px;
+  font-family: Monospace;
+  font-size: 12pt;
+  color: #0066ff;
+  margin: 15px;
+}
+
+#tribute-link {
+  font-family: Monospace;
+  font-size: 15px;
+  color: #004080;
+  padding: 20px;
+  text-align: 
+}
+</style>
